@@ -1,0 +1,15 @@
+{
+  "name": "refin-q3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pestobaimon/refinQ3.git",
+  "author": "Ravipas Wangananont <wangananontr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "2.1.1"
+  },
+  "engines": {
+    "npm": ">=8.0.0",
+    "node": "12.0.0"
+  }
+}
